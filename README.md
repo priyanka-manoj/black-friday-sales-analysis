@@ -8,20 +8,20 @@ The dataset required preprocessing, including handling missing values and calcul
 
 ---
 
-## 🎯 Key Objectives
+### 🎯 Key Objectives
 
 - Prepare and clean transactional data from Excel  
 - Compute missing tax and total values  
 - Perform revenue and customer analysis  
 - Identify key sales trends and insights
 
-### 📊 Key Findings
+# 📊 Key Findings
 
 - Total Revenue: $9,348.67  
 - Average Order Value: $323.38  
 - Unique Customers: 19  
 
-### Insights
+## Insights
 - Mammoth and Stowe are top-performing locations  
 - Sales peaked on Nov 26, contributing over 60% of revenue  
 - Revenue is concentrated among a few high-value customers
